@@ -30,7 +30,8 @@ To help business stakeholders understand sales trends, category performance, and
 - Stable AOV shows consistent customer purchasing behavior.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+<img width="1920" height="1080" alt="dashboard png" src="https://github.com/user-attachments/assets/a6499ac4-5ea9-4bca-80f9-b91af5a06bc4" />
+
 
 ## 📂 Repository Files
 - FUTURE_DS_01_Sales_Dashboard.pbix – Power BI dashboard file
